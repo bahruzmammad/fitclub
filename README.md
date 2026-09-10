@@ -14,8 +14,8 @@ A responsive fitness landing page built with HTML, CSS, and JavaScript.
 
 ![FitClub Demo 5](assets/imgs/demo/demo-5.png)
 
-**Live Demo:**
-YOUR_NETLIFY_LINK
+**Live Demo:**  
+https://fitclub-4jv.pages.dev/
 
 ## Features
 
