@@ -1,56 +1,69 @@
-# FitClub
+# FitClub-HTML-CSS-JavaScript
 
-A responsive fitness landing page built with HTML, CSS, and JavaScript.
+HTML/CSS/JavaScript Website built with HTML, CSS, JavaScript.
 
-## Demo
+## Overview
 
-![FitClub Demo 1](assets/imgs/demo/demo-1.png)
-
-![FitClub Demo 2](assets/imgs/demo/demo-2.png)
-
-![FitClub Demo 3](assets/imgs/demo/demo-3.png)
-
-![FitClub Demo 4](assets/imgs/demo/demo-4.png)
-
-![FitClub Demo 5](assets/imgs/demo/demo-5.png)
-
-**Live Demo:**  
-https://fitclub-4jv.pages.dev/
-
-## Features
-
-- Responsive design
-- Mobile navigation
-- Workout sections
-- Membership section
-- Scroll animations
-- Light and dark mode
+This repository contains a html/css/javascript website with 21 tracked and analyzed project files across 5 directories.
 
 ## Technologies
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
-- ScrollReveal.js
-- Poppins
-- Remix Icon
 
-## Theme
+## Entry Points
 
-The project supports light and dark modes.
+- `assets/js/main.js`
+- `index.html`
 
-```javascript
-lightMode();
-darkMode();
-toggleTheme();
+## Project Structure
+
+```text
+FitClub-HTML-CSS-JavaScript/
+├── assets/
+│   ├── css/
+│   │   └── styles.css
+│   ├── imgs/
+│   │   ├── demo/
+│   │   ├── apple.png
+│   │   ├── download.png
+│   │   ├── google.png
+│   │   ├── header.png
+│   │   ├── logo.png
+│   │   ├── membership.png
+│   │   ├── story.png
+│   │   ├── workout-1.png
+│   │   ├── workout-2.png
+│   │   ├── workout-3.png
+│   │   ├── workout-4.png
+│   │   ├── workout-5.png
+│   │   └── workout-6.png
+│   └── js/
+│       └── main.js
+└── index.html
 ```
 
-The selected theme is saved with `localStorage`.
+Important directories:
 
-## Reference
+- `assets`
+- `assets/css`
+- `assets/js`
 
-Based on the Web Design Mastery tutorial:
+## Repository Statistics
 
-Playlist:
+- Files: 21
+- Directories: 5
+- Source files: 3
+- Asset files: 18
+- Lines of code/text: 866
 
-https://www.youtube.com/playlist?list=...
+## Git
+
+- Branch: `main`
+- Commits: 3
+- Latest commit: `732ca0c86a12`
+
+## Notes
+
+This documentation reflects the current repository structure and detected project configuration.
